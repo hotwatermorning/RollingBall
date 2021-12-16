@@ -1,5 +1,7 @@
 ## プロジェクト
 
+<img src="./Documents/Images/ScreenShot.png" width="600px">
+
 ボールを転がしてゴールまで持っていくゲーム
 
 ## 必須要件
